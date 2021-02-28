@@ -1,9 +1,9 @@
 const images = [
-  "/image/image1.jpg",
-  "/image/image2.jpg",
-  "/image/image3.jpg",
-  "/image/image4.jpg",
-  "/image/image5.jpg",
+  "https://takuro-1200.github.io/slide-show/image/image1.jpg",
+  "https://takuro-1200.github.io/slide-show/image/image2.jpg",
+  "https://takuro-1200.github.io/slide-show/image/image3.jpg",
+  "https://takuro-1200.github.io/slide-show/image/image4.jpg",
+  "https://takuro-1200.github.io/slide-show/image/image5.jpg",
 ];
 let current = 0;
 
